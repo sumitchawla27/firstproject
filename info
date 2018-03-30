@@ -1,0 +1,11 @@
+clone the repository in your local system
+you can either create project and then push that on this repo or just can simply add files and push here for future refernces
+git add . (. here represents all changed files)
+git commit -m "commit message"
+git push origin master
+while pushing the code on remote and in master branch it will ask for user name and password, you need to give your account username and password here for which i have added the access
+master would be our main branch
+moving on we will cut a new branch and then push code in new branch and then merge that new branch into master
+this is how standard process goes
+so that master branch remain stable
+and new branch is merged after complete testing of code
